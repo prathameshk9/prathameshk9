@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshk9&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshk9" /> </p>
 
+- 🔭 I’m currently working on **Something Cool**
+
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACTjs !**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Frontend.**
 
 - 📫 How to reach me **prathameshkulkarni2576@gmail.com**
 
