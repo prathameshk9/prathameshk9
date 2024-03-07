@@ -1,5 +1,10 @@
 <h1 align="left">Hi there! 👋</h1>
 
+<div align="center">
+  <img height="200" src="https://clipart-library.com/images/kiKoge8oT.gif"  />
+</div>
+
+###
 ###
 
 <h2 align="left">I'm prathamesh, a passionate frontend developer who loves crafting delightful user experiences. As a 2022 graduate with a focus on frontend technologies, I'm excited to contribute my skills and creativity to the world of web development.</h2>
