@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🔧 Skills<br><br>- **Languages:** HTML, CSS, JavaScript<br>- **Frameworks:** Reactjs<br>- **Version Control:** Git, GitHub<br>- **Other:** Responsive Web Design, Cross-Browser Compatibility</h4>
+<h3 align="left">🔧 Skills<br><br>- **Languages:** HTML, CSS, JavaScript<br>- **Frameworks:** Reactjs<br>- **Version Control:** Git, GitHub<br>- **Other:** Responsive Web Design, Cross-Browser Compatibility</h3>
 
 ###
 
