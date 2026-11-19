@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>Prathamesh Kulkarni</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=170&section=header&animation=fadeIn" alt="Decorative header banner" width="100%" />
+
+<h1><b>✨ PRATHAMESH KULKARNI ✨</b></h1>
+
+<h3><b>C# / .NET Developer &nbsp;|&nbsp; Security Testing &nbsp;|&nbsp; Network Support</b></h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=640&lines=C%23+%2F+.NET+Developer;Security+Testing+%28Web%2C+API%2C+Mobile%29;Network+Support+%7C+CCNA+Training" alt="Typing animation: C# / .NET Developer, Security Testing, Network Support" />
 
@@ -122,3 +126,5 @@
 <div align="center">
   <sub>Thanks for stopping by. Feel free to reach out or take a look at my projects.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=120&section=footer" alt="Decorative footer banner" width="100%" />
